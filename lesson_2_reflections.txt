@@ -1,1 +1,3 @@
-you can use diff before committing to see if there is a logical sense
+you can use diff before committing to see if there is a logical sense.
+
+if i make 2 or more different versions, branch would help organize that.
