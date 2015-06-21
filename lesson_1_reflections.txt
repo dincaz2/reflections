@@ -1,0 +1,7 @@
+it helps find the diffs real quick
+
+if you found a mistake or want to check something you deleted from older versions, you can go back and do it
+
+pros: it has logical sense. cons: you can forget
+
+because the docs in google docs doesn't have a relationship between them
