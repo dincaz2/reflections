@@ -1,0 +1,1 @@
+you can use diff before committing to see if there is a logical sense
